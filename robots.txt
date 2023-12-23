@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://cyanivde.github.io/technion-ctf/sitemap.xml.gz
