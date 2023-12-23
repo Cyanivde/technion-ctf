@@ -4,11 +4,11 @@
 
 ### Resources
 {.list-icon}
-- :icon-books: [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- :icon-books: [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-- :icon-books: [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-- :icon-books: [HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- :icon-books: [Portswigger Web Security Academy](https://portswigger.net/web-security/all-topics)
+- :icon-book: [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- :icon-book: [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- :icon-book: [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- :icon-book: [HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- :icon-book: [Portswigger Web Security Academy](https://portswigger.net/web-security/all-topics)
 
 ### Tools & Software
 {.list-icon}
