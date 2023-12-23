@@ -6,3 +6,5 @@ branding:
 links:
 - text: GitHub
   link: https://github.com/Cyanivde/technion-ctf
+meta:
+  title: " | Technion CTF"
