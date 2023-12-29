@@ -1,11 +1,9 @@
 # 1. Introduction to CTF
 
-[Session 1 - Introduction](/files/session1.pptx)
+[Session 1 - Getting Started](/files/basics.pptx)
 
 ## What is CTF?
 > Capture the Flag (CTF) in computer security is an exercise in which participants attempt to find text strings, called "flags", which are secretly hidden in purposefully-vulnerable programs or websites.
-> 
-[!file text="1. Introduction to CTF"](/files/HiHili.pptx)
 
 ## Getting started - the basics
 
@@ -13,10 +11,11 @@
 
 - ASCII Text
 - Binary, Decimal and Hexadecimal representation
-- Base16, Base 64
+- Base16, Base64
 
 ### Linux
-- Basic commands: cd, ls, cat, file, wget, chmod
+- Linux shell
+- Basic commands
 
 ### Practice
 
@@ -24,5 +23,6 @@
 
 - [Over The Wire "Bandit"](https://overthewire.org/wargames/bandit/)
 
-## Sources
-
+## Additional links and soruces
+- [Basics of linux](https://d00mfist.gitbooks.io/ctf/content/basics_of_linux.html)
+- [Cyberchef](https://gchq.github.io/CyberChef/)
