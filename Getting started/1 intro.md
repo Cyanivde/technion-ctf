@@ -16,7 +16,7 @@ order: 1
 
 ### Tools & Software
 {.list-icon}
-- :computer: [Cyberchef](https://gchq.github.io/CyberChef/)
+- :computer: [CyberChef](https://gchq.github.io/CyberChef/)
 
 ### Practice
 {.list-icon}
