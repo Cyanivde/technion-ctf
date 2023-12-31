@@ -9,10 +9,10 @@ order: 1
 
 ### Resources
 {.list-icon}
-- :icon-book: [ASCII reference](https://www.w3schools.com/charsets/ref_html_ascii.asp)
-- :icon-book: [Binary, decimal and hexadecimal conversion table](https://kb.iu.edu/d/afdl)
-- :icon-book: [What is Base64](https://base64.guru/learn/what-is-base64)
-- :icon-book: [Basics of linux](https://d00mfist.gitbooks.io/ctf/content/basics_of_linux.html)
+- :book: [ASCII reference](https://www.w3schools.com/charsets/ref_html_ascii.asp)
+- :book: [Binary, decimal and hexadecimal conversion table](https://kb.iu.edu/d/afdl)
+- :book: [What is Base64](https://base64.guru/learn/what-is-base64)
+- :book: [Basics of linux](https://d00mfist.gitbooks.io/ctf/content/basics_of_linux.html)
 
 ### Tools & Software
 {.list-icon}

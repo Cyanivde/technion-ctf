@@ -8,10 +8,10 @@ visibility: hidden
 
 ### Resources
 {.list-icon}
-- :icon-book: [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- :icon-book: [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-- :icon-book: [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-- :icon-book: [HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- :book: [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- :book: [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- :book: [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- :book: [HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
 ### Tools & Software
 {.list-icon}

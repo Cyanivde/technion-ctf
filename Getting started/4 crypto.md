@@ -6,10 +6,7 @@ visibility: hidden
 
 ### Resources
 {.list-icon}
-- :icon-book: [ASCII reference](https://www.w3schools.com/charsets/ref_html_ascii.asp)
-- :icon-book: [Binary, decimal and hexadecimal conversion table](https://kb.iu.edu/d/afdl)
-- :icon-book: [What is Base64](https://base64.guru/learn/what-is-base64)
-- :icon-book: [CTF Cryptography for beginners](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
+- :book: [CTF Cryptography for beginners](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
 
 ### Tools & Software
 {.list-icon}
