@@ -1,4 +1,8 @@
-# 1. Introduction to CTF
+---
+order: 1
+---
+
+# Introduction to CTF
 
 [!file text="Introduction to CTF"](/files/intro.pptx)
 [!file text="Character Encoding, Unix Shell"](/files/basics.pptx)
