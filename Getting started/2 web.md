@@ -1,10 +1,10 @@
 ---
-visibility: hidden
+order: -2
 ---
 
-# 2. Web
+# Web Exploitation
 
-[!file text="2. Web"](/files/HiHili.pptx)
+[!file text="Web Exploitation"](/files/web.pptx)
 
 ### Resources
 {.list-icon}
@@ -22,4 +22,4 @@ visibility: hidden
 {.list-icon}
 - :triangular_flag_on_post: [PicoGym](https://picoctf.org/index.html#picogym) - filter for "Web Exploitation". We recommend doing challenges that have 80%+ rating.
 - :triangular_flag_on_post: [Natas](https://overthewire.org/wargames/natas/)
-- :triangular_flag_on_post: [Portswigger Web Security Academy](https://portswigger.net/web-security/all-topics)
+- :triangular_flag_on_post: [Portswigger Web Security Academy](https://portswigger.net/web-security/all-topics) - read a topic, then solve the "apprentice" labs.
