@@ -20,6 +20,5 @@ order: -2
 
 ### Practice
 {.list-icon}
-- :triangular_flag_on_post: [PicoGym](https://picoctf.org/index.html#picogym) - filter for "Web Exploitation". We recommend doing challenges that have 80%+ rating.
 - :triangular_flag_on_post: [Natas](https://overthewire.org/wargames/natas/)
 - :triangular_flag_on_post: [Portswigger Web Security Academy](https://portswigger.net/web-security/all-topics) - read a topic, then solve the "apprentice" labs.
