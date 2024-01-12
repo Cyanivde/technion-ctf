@@ -4,7 +4,7 @@ order: -5
 
 # Web Exploitation
 
-[!file text="Web Exploitation"](/files/web.pptx)
+[!button icon="download" text="web-exploitation.pptx"](/files/web-exploitation.pptx)
 
 ### Resources
 {.list-icon}

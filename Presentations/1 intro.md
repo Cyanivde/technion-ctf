@@ -4,8 +4,9 @@ order: -4
 
 # Introduction to CTF
 
-[!file text="Introduction to CTF"](/files/intro.pptx)
-[!file text="Character Encoding, Unix Shell"](/files/basics.pptx)
+[!button icon="download" text="intro-to-ctf.pptx"](/files/intro-to-ctf.pptx)
+
+[!button icon="download" text="character-encoding-unix-shell.pptx"](/files/character-encoding-unix-shell.pptx.pptx)
 
 ### Resources
 {.list-icon}
