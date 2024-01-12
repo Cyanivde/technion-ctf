@@ -3,8 +3,5 @@ output: .retype
 url: https://cyanivde.github.io/technion-ctf
 branding:
   title: Technion CTF
-links:
-- text: GitHub
-  link: https://github.com/Cyanivde/technion-ctf
 meta:
   title: " | Technion CTF"

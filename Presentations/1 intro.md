@@ -1,5 +1,5 @@
 ---
-order: -1
+order: -4
 ---
 
 # Introduction to CTF
@@ -17,8 +17,3 @@ order: -1
 ### Tools & Software
 {.list-icon}
 - :computer: [CyberChef](https://gchq.github.io/CyberChef/)
-
-### Practice
-{.list-icon}
-- :triangular_flag_on_post: [PicoGym](https://play.picoctf.org/practice?category=5) - filter for "General Skills". We recommend doing challenges that have 80%+ rating.
-- :triangular_flag_on_post: [Bandit](https://overthewire.org/wargames/bandit/)
