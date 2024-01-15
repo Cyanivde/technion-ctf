@@ -2,7 +2,7 @@
 order: -3
 ---
 
-# Installations
+# Installation
 
 We recommend installing **Kali Linux**. Kali Linux is a cybersecurity-focused operating system with many tools that could be useful for solving CTFs.
 

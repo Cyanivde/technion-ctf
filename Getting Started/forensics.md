@@ -3,10 +3,10 @@ order: -6
 visibility: hidden
 ---
 
-# Forensics & Network
+# Forensics & Networks
 
 === Presentations
-TBD
+[!button icon="download" text="forensics-networks.pptx"](/files/forensics-networks.pptx)
 
 === Practice
 {.compact}
@@ -23,9 +23,9 @@ Level | CTF | Instructions
 - [binwalk](https://github.com/ReFirmLabs/binwalk) (available in Kali Linux)
 - [exiftool](https://exiftool.org/) (available in Kali Linux)
 - [Wireshark](https://www.wireshark.org/) (available in Kali Linux)
-- [nmap](https://nmap.org/) (available in Kali Linux)
 
 === References
+- [Kali Linux - Top 10 Tools](https://www.geeksforgeeks.org/top-10-kali-linux-tools-for-hacking/)
 - [Computer Networks Book - Chapter 1](https://data.cyber.org.il/networks/networks.pdf#page=22) (Hebrew)
 
 ===
