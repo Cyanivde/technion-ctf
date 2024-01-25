@@ -7,9 +7,11 @@ order: -4
 === Presentations
 [!button icon="download" text="Introduction"](/files/introduction.pptx) [!button icon="download" text="CTF Basics"](/files/ctf-basics.pptx)
 
-=== Practice
-- [Bandit](https://overthewire.org/wargames/bandit/)
+=== Class Practice
 - [PicoGym](https://play.picoctf.org/practice?category=5&page=1) - "General Skills" challenges where rating ≥ 75%
+
+=== Further Practice
+- [Bandit](https://overthewire.org/wargames/bandit/)
 
 === Tools & Software
 - [CyberChef](https://gchq.github.io/CyberChef/)
