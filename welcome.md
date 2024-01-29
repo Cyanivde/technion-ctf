@@ -19,7 +19,7 @@ Learn more about us by reading the [FAQ](faq.md).
 Our meetings take place on Tuesdays at 18:30-20:00 in CS Taub Building.
 
 {.compact}
-\# | Date   | CTF Agenda 
---- | ---    | ---
-1 | 2024-01-23 | Introduction to CTF
-2 | 2024-01-30 | Web Exploitation
+\# | Date   | Beginners Agenda | Advanced Agenda
+--- | ---    | --- | ---
+1 | 2024-01-23 | Introduction to CTF | 
+2 | 2024-01-30 | Web Exploitation | Practice: PingCTF
