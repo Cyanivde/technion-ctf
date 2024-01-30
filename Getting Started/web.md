@@ -1,6 +1,5 @@
 ---
 order: -5
-visibility: hidden
 ---
 
 # Web Exploitation
@@ -8,14 +7,11 @@ visibility: hidden
 === Presentations
 [!button icon="download" text="web-exploitation.pptx"](/files/web-exploitation.pptx)
 
-=== Practice
-{.compact}
-Level | CTF | Instructions
---- | --- | ---
-1 | [Natas](https://overthewire.org/wargames/natas/) | Complete all levels up to level 3 → Level 4
-2 | [Web Security Academy - apprentice server-side labs](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice) | Complete all labs
-3 | Natas | Complete all levels up to level 14 → Level 15
-4 | [Web Security Academy - mystery labs](https://portswigger.net/web-security/mystery-lab-challenge) | Filter for apprentice and solve 15 labs
+=== Class Practice
+* [Natas](https://overthewire.org/wargames/natas/)
+
+=== Further Practice
+* [Web Security Academy - apprentice server-side labs](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice)
 
 === Tools & Software
 - [Developer Tools (F12)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools)
@@ -25,5 +21,7 @@ Level | CTF | Instructions
 - [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [unskid.me](http://unskid.me/) - web exploitation tutorials (Hebrew)
+- [learn-cyber.net](https://learn-cyber.net/collection/f2403d03-88e3-4fda-84e2-0dc6681c1fbb) - web exploitation tutorials
 
 ===

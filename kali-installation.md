@@ -2,7 +2,7 @@
 order: -3
 ---
 
-# Installation
+# Kali Linux Installation
 
 We recommend installing **Kali Linux**. Kali Linux is a cybersecurity-focused operating system with many tools that could be useful for solving CTFs.
 
@@ -18,7 +18,4 @@ sudo apt full-upgrade -y
 sudo apt install -y kali-linux-default
 ```
 
-You can then access your Windows files from the following directory:
-```
-/mnt/c
-```
+**Tip:** You can access your Windows files from the following directory in WSL: `/mnt/c`
