@@ -8,10 +8,10 @@ order: -5
 [!button icon="download" text="web-exploitation.pptx"](/files/web-exploitation.pptx)
 
 === Class Practice
-* [Natas](https://overthewire.org/wargames/natas/)
+* [Web Security Academy - apprentice server-side labs](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice)
 
 === Further Practice
-* [Web Security Academy - apprentice server-side labs](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice)
+* [Natas](https://overthewire.org/wargames/natas/)
 
 === Tools & Software
 - [Developer Tools (F12)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools)
