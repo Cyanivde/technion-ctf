@@ -4,7 +4,7 @@ order: -1
 
 # Welcome!
 
-The newly formed **Technion CTF team** hosts weekly meetings in which we gather to solve challenges, train for competitions, and have lots of fun.
+**technipwn**, the newly formed Technion CTF team, hosts weekly meetings in which we gather to solve challenges, train for competitions, and have lots of fun.
 
 Learn more about us by reading the [FAQ](faq.md).
 
@@ -23,3 +23,4 @@ Our meetings take place on Tuesdays at 18:30-20:00 in CS Taub Building.
 --- | ---    | --- | ---
 1 | 2024-01-23 | Introduction to CTF | 
 2 | 2024-01-30 | Web Exploitation | Practice: PingCTF
+3 | 2024-02-06 | Forensics & Networks | Practice: LA CTF

@@ -2,6 +2,6 @@ input: .
 output: .retype
 url: https://technionctf.com
 branding:
-  title: Technion CTF
+  title: technipwn
 meta:
-  title: " | Technion CTF"
+  title: " | technipwn"
