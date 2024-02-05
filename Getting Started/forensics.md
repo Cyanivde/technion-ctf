@@ -8,14 +8,12 @@ visibility: hidden
 === Presentations
 [!button icon="download" text="forensics-networks.pptx"](/files/forensics-networks.pptx)
 
-=== Practice
-{.compact}
-Level | CTF | Instructions
---- | --- | ---
-1 | [CTFLearn](https://ctflearn.com/challenge/1/browse) | Complete all Forensics challenges where rating ≥ 4.5 and difficulty is "Easy"
-2 | [Unit 42 Wireshark Quiz](https://unit42.paloaltonetworks.com/january-wireshark-quiz/) ([Answers](https://unit42.paloaltonetworks.com/january-wireshark-quiz-answers/)) | Complete the quiz
-3 | CTFLearn | Complete all Forensics challenges where rating ≥ 4.5 and difficulty is "Medium"
+=== Class Practice
+- [CTFLearn](https://ctflearn.com/challenge/1/browse) - forensics challenges where rating ≥ 4.5
+- [Unit 42 Wireshark Quiz](https://unit42.paloaltonetworks.com/january-wireshark-quiz/) ([Answers](https://unit42.paloaltonetworks.com/january-wireshark-quiz-answers/))
 
+=== Further Practice
+N/A
 
 === Tools & Software
 - [file](https://linux.die.net/man/1/file) (available in Kali Linux)
