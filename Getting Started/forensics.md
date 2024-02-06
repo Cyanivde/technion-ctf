@@ -1,6 +1,5 @@
 ---
 order: -6
-visibility: hidden
 ---
 
 # Forensics & Networks
