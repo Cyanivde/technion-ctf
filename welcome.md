@@ -27,4 +27,4 @@ Our meetings take place on Tuesdays at 18:30-20:00 in CS Taub Building.
 4 | 2024-02-13 | Special Meeting* | Special Meeting*
 5 | 2024-02-20 | Cryptography | LA CTF recap + Crypto
 
-* Guest talk: The Price of Convenience – How Security Vulnerabilities in Global Transportation Payment Systems Can Cost You // Omer Attias
+* Guest talk: [The Price of Convenience – How Security Vulnerabilities in Global Transportation Payment Systems Can Cost You // Omer Attias](https://youtu.be/NVnzm-L4a5c?feature=shared)
