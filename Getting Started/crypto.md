@@ -1,27 +1,24 @@
 ---
 order: -7
-visibility: hidden
 ---
 
 # Cryptography
 
 === Presentations
-TBD
+[!button icon="download" text="crypto.pptx"](/files/crypto.pptx)
 
-=== Practice
-{.compact}
-Level | CTF | Instructions
---- | --- | ---
-1 | [CryptoHack](https://cryptohack.org/challenges/) | Complete all "introduction" challenges
-2 | CryptoHack | Complete all "general" challenges
-3 | CryptoHack | Complete all "mathematics" and "symmetric ciphers" challenges
-4 | CryptoHack | Complete all "RSA" and "Diffie Helman" challenges
+=== Class Practice
+- [Cryptohack General Challenges](https://cryptohack.org/challenges/general/)
+- [Cryptohack "Crypto on the Web" Challenges](https://cryptohack.org/challenges/web/)
+
+=== Further Practice
+N/A
 
 === Tools & Software
 - [Cyberchef](https://gchq.github.io/CyberChef/)
-- [Dcode.fr](https://www.dcode.fr/en)
 
-=== Resources
-- [CTF Cryptography for beginners](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
+=== References
+- [CTF Cryptography for Beginners](https://charcharbinks.com/post/ctf_crypto_for_beginners/)
+- [Cryptography tools list](https://fareedfauzi.gitbook.io/ctf-playbook/cryptography)
 
 ===
