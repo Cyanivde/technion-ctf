@@ -8,11 +8,10 @@ order: -7
 [!button icon="download" text="crypto.pptx"](/files/crypto.pptx)
 
 === Class Practice
-- [Cryptohack General Challenges](https://cryptohack.org/challenges/general/)
-- [Cryptohack "Crypto on the Web" Challenges](https://cryptohack.org/challenges/web/)
+- [Cryptohack - General](https://cryptohack.org/challenges/general/) - XOR, Data Formats
 
 === Further Practice
-N/A
+- [Cryptohack](https://cryptohack.org/challenges/general/)
 
 === Tools & Software
 - [Cyberchef](https://gchq.github.io/CyberChef/)
