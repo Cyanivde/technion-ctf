@@ -2,10 +2,10 @@
 order: -6
 ---
 
-# Forensics & Networks
+# Forensics
 
 === Presentations
-[!button icon="download" text="forensics-networks.pptx"](/files/forensics-networks.pptx)
+[!button icon="download" text="Forensics"](/files/forensics.pptx)
 
 === Class Practice
 - [CTFLearn](https://ctflearn.com/challenge/1/browse) - forensics challenges where rating ≥ 4.5

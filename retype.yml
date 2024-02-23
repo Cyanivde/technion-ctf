@@ -2,6 +2,7 @@ input: .
 output: .retype
 url: https://technionctf.com
 branding:
-  title: technipwn
+  logo: files/logo.png
+  logoDark: files/logo-dark.png
 meta:
-  title: " | technipwn"
+  title: " | Technipwn"

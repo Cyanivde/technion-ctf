@@ -5,7 +5,7 @@ order: -5
 # Web Exploitation
 
 === Presentations
-[!button icon="download" text="web-exploitation.pptx"](/files/web-exploitation.pptx)
+[!button icon="download" text="Web Exploitation"](/files/web.pptx)
 
 === Class Practice
 * [Web Security Academy - apprentice server-side labs](https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice)

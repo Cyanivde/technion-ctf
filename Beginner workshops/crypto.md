@@ -5,7 +5,7 @@ order: -7
 # Cryptography
 
 === Presentations
-[!button icon="download" text="crypto.pptx"](/files/crypto.pptx)
+[!button icon="download" text="Cryptography"](/files/crypto.pptx)
 
 === Class Practice
 - [Cryptohack - General](https://cryptohack.org/challenges/general/) - XOR, Data Formats
