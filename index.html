@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.762016695027">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.762034220889">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -30,11 +30,48 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="resources/css/retype.css?v=3.5.0.762016695027" rel="stylesheet">
+    <link href="resources/css/retype.css?v=3.5.0.762034220889" rel="stylesheet">
 
-    <script data-cfasync="false" src="resources/js/config.js?v=3.5.0.762016695027" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="resources/js/config.js?v=3.5.0.762034220889" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="resources/js/lunr.js?v=3.5.0.762016695027" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="resources/js/lunr.js?v=3.5.0.762034220889" data-turbo-eval="false" defer></script>
+
+    <link href="/css/custom.css" type="text/css" rel="stylesheet" />
+    <style>
+        .w-40 {
+            display: none !important;
+        }
+
+        [role="button"] {
+            display: none !important;
+        }
+
+        .flex .justify-between .grow {
+            display: none !important;
+        }
+
+        .clear-both {
+            display: none !important;
+        }
+
+        .border-t.pt-6 {
+            display: none !important;
+        }
+
+        .docs-markdown figure {
+             margin-top: 1.5rem !important;
+             margin-bottom: 1.5rem !important;
+             display: flex;
+        }
+
+        .docs-markdown figure > :first-child {
+            margin: 0 auto !important;
+            }
+
+    </style>
+    <script>
+      document.documentElement.classList.add("dark"); 
+    </script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -51,7 +88,7 @@
                     <div class="flex items-center px-2 md:px-6">
                         <a id="docs-site-logo" href="" class="flex items-center leading-snug text-2xl">
                             <span class="grow-0 shrink-0 overflow-hidden">
-                                <img class="max-h-10 dark:hidden md:inline-block" src="files/logo.png">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="files/logo-dark.png">
                                 <img class="max-h-10 hidden dark:inline-block" src="files/logo-dark.png">
                             </span>
                         </a>
@@ -162,28 +199,17 @@
 <p><a href="https://chat.whatsapp.com/BC5nhbQhlhv4NoOBVStjET" class="no-link inline-flex align-middle items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-green-500 hover:bg-green-700 text-white px-4 h-10 text-sm rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M22 1.75v14.5a.75.75 0 0 1-.399.662c-.384.204-.783-.035-1.139-.248l-.003-.002c-.09-.054-.177-.107-.261-.15a15.53 15.53 0 0 0-2-.849c-1.738-.607-4.321-1.223-7.703-1.251a.833.833 0 0 1 .005.088c0 2.279.494 4.279.906 5.547.368 1.131-.438 2.453-1.732 2.453H7.661c-.696 0-1.36-.42-1.6-1.129C5.684 20.255 5 17.811 5 14.75v-.457A5.5 5.5 0 0 1 6.5 3.5h3.75c3.505 0 6.175-.61 7.955-1.21a15.88 15.88 0 0 0 2.002-.82 9.21 9.21 0 0 0 .49-.262c.048-.028.095-.055.142-.085A.751.751 0 0 1 22 1.75ZM10.5 12.912c3.564.029 6.313.678 8.193 1.335.737.258 1.34.517 1.807.74V2.993c-.467.216-1.073.467-1.815.718-1.878.634-4.624 1.26-8.185 1.288ZM6.5 5a4 4 0 0 0 0 8H9V5Zm0 9.75c0 2.847.638 5.123.982 6.141.018.051.074.109.179.109h2.013c.087 0 .179-.043.249-.147a.396.396 0 0 0 .057-.343C9.537 19.148 9 16.986 9 14.5H6.5Z"/></g></svg></span>
     <span>Join the Whatsapp group chat</span>
-</a> <a href="https://discord.com/invite/DB8GVDv5fU" class="no-link inline-flex align-middle items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-4 h-10 text-sm rounded-md">
+</a></p>
+<p><a href="https://discord.com/invite/DB8GVDv5fU" class="no-link inline-flex align-middle items-center font-medium cursor-pointer transition-colors duration-200 ease-out focus:outline-none bg-gray-500 hover:bg-gray-600 dark:bg-dark-400 dark:hover:bg-dark-450 text-white px-4 h-10 text-sm rounded-md">
     <span><svg xmlns="http://www.w3.org/2000/svg" class="mb-px inline-flex mr-2" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"/><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"/></g></svg></span>
     <span>Join the Discord channel</span>
 </a></p>
 <hr>
-<style>
-    .sponsor {
-        aspect-ratio: 100/20;
-        border-radius: 25px;
-        background-color: #eee;
-        border: 1px #ccc solid;
-        padding: 3% 6% 0px 6%;
-        margin: 5px;
-        display: inline flex;
-    }
-</style>
-<div class="sponsor"><p><figure class="content-center">
-    <img src="/files/technion_taubcs_logo_pos.png" alt="">
+<p><figure class="content-center">
+    <img src="/files/technion_taubcs_logo_neg.png" alt="">
     <figcaption class="caption"></figcaption>
 </figure>
 </p>
-</div>
 
                                 
                                 <!-- Required only on API pages -->
