@@ -7,7 +7,7 @@ order: -9999
 
 <style>
     .sponsor {
-        width: 33%;
+        width: 30%;
         aspect-ratio: 100/40;
         border-radius: 25px;
         background-color: #FFF;
@@ -30,6 +30,12 @@ order: -9999
 ::: 
 :::sponsor
 ![]("\files\intel.png")
+:::
+:::sponsor
+![]("\files\IEEE-logo_2.png")
+:::
+:::sponsor
+![]("\files\Hiroshi_Fujiwara_Cyber_Security-LOGO.png")
 :::
 
 ---
