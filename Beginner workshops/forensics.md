@@ -9,10 +9,9 @@ order: -6
 
 === Class Practice
 - [CTFLearn](https://ctflearn.com/challenge/1/browse) - forensics challenges where rating ≥ 4.5
-- [Unit 42 Wireshark Quiz](https://unit42.paloaltonetworks.com/january-wireshark-quiz/) ([Answers](https://unit42.paloaltonetworks.com/january-wireshark-quiz-answers/))
 
 === Further Practice
-N/A
+- [Unit 42 Wireshark Quiz](https://unit42.paloaltonetworks.com/january-wireshark-quiz/) ([Answers](https://unit42.paloaltonetworks.com/january-wireshark-quiz-answers/))
 
 === Tools & Software
 - [file](https://linux.die.net/man/1/file) (available in Kali Linux)
