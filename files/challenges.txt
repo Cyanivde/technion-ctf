@@ -1,0 +1,164 @@
+# Web
+PortSwigger Web Security Academy - SQL injection attack, querying the database type and version on Oracle
+PortSwigger Web Security Academy - SQL injection attack, querying the database type and version on MySQL and Microsoft
+PortSwigger Web Security Academy - SQL injection attack, listing the database contents on non-Oracle databases
+PortSwigger Web Security Academy - SQL injection attack, listing the database contents on Oracle
+PortSwigger Web Security Academy - SQL injection UNION attack, determining the number of columns returned by the query
+PortSwigger Web Security Academy - SQL injection UNION attack, finding a column containing text
+PortSwigger Web Security Academy - SQL injection UNION attack, retrieving data from other tables
+PortSwigger Web Security Academy - SQL injection UNION attack, retrieving multiple values in a single column
+PortSwigger Web Security Academy - Blind SQL injection with conditional responses
+PortSwigger Web Security Academy - Blind SQL injection with conditional errors
+PortSwigger Web Security Academy - Visible error-based SQL injection
+PortSwigger Web Security Academy - Blind SQL injection with time delays
+PortSwigger Web Security Academy - Blind SQL injection with time delays and information retrieval
+PortSwigger Web Security Academy - Blind SQL injection with out-of-band interaction
+PortSwigger Web Security Academy - Blind SQL injection with out-of-band data exfiltration
+PortSwigger Web Security Academy - SQL injection with filter bypass via XML encoding
+PortSwigger Web Security Academy - Reflected XSS into a JavaScript string with angle brackets and double quotes HTML encoded and single quotes escaped
+PortSwigger Web Security Academy - Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped
+PortSwigger Web Security Academy - Reflected XSS into a template literal with angle brackets, single, double quotes, backslash, and backticks Unicode-escaped
+PortSwigger Web Security Academy - Exploiting cross-site scripting to steal cookies
+PortSwigger Web Security Academy - Exploiting cross-site scripting to capture passwords
+PortSwigger Web Security Academy - Exploiting XSS to perform CSRF
+PortSwigger Web Security Academy - Reflected DOM XSS
+PortSwigger Web Security Academy - Stored DOM XSS
+PortSwigger Web Security Academy - Reflected XSS into HTML context with most tags and attributes blocked
+PortSwigger Web Security Academy - Reflected XSS into HTML context with all tags blocked except custom ones
+PortSwigger Web Security Academy - Reflected XSS with some SVG markup allowed
+PortSwigger Web Security Academy - Reflected XSS in canonical link tag
+PortSwigger Web Security Academy - Reflected XSS into a JavaScript string with single quote and backslash escaped
+PortSwigger Web Security Academy - Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability
+PortSwigger Web Security Academy - Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability
+PortSwigger Web Security Academy - Exploiting HTTP request smuggling to reveal front-end request rewriting
+PortSwigger Web Security Academy - Exploiting HTTP request smuggling to capture other users' requests
+PortSwigger Web Security Academy - Exploiting HTTP request smuggling to deliver reflected XSS
+PortSwigger Web Security Academy - Response queue poisoning via H2.TE request smuggling
+PortSwigger Web Security Academy - H2.CL request smuggling
+PortSwigger Web Security Academy - HTTP/2 request smuggling via CRLF injection
+PortSwigger Web Security Academy - HTTP/2 request splitting via CRLF injection
+PortSwigger Web Security Academy - CL.0 request smuggling
+PortSwigger Web Security Academy - HTTP request smuggling, basic CL.TE vulnerability
+PortSwigger Web Security Academy - HTTP request smuggling, basic TE.CL vulnerability
+PortSwigger Web Security Academy - HTTP request smuggling, obfuscating the TE header
+PortSwigger Web Security Academy - Exploiting HTTP request smuggling to perform web cache poisoning
+PortSwigger Web Security Academy - Exploiting HTTP request smuggling to perform web cache deception
+PortSwigger Web Security Academy - Bypassing access controls via HTTP/2 request tunnelling
+PortSwigger Web Security Academy - Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria
+PortSwigger Web Security Academy - Combining web cache poisoning vulnerabilities
+PortSwigger Web Security Academy - Cache key injection
+PortSwigger Web Security Academy - Internal cache poisoning
+PortSwigger Web Security Academy - Basic server-side template injection
+PortSwigger Web Security Academy - Basic server-side template injection (code context)
+PortSwigger Web Security Academy - Server-side template injection using documentation
+PortSwigger Web Security Academy - Server-side template injection in an unknown language with a documented exploit
+PortSwigger Web Security Academy - Server-side template injection with information disclosure via user-supplied objects
+PortSwigger Web Security Academy - Access control vulnerabilities
+PortSwigger Web Security Academy - URL-based access control can be circumvented
+PortSwigger Web Security Academy - Method-based access control can be circumvented
+PortSwigger Web Security Academy - Multi-step process with no access control on one step
+PortSwigger Web Security Academy - Referer-based access control
+PortSwigger Web Security Academy - HTTP Host header attacks
+PortSwigger Web Security Academy - Web cache poisoning via ambiguous requests
+PortSwigger Web Security Academy - Routing-based SSRF
+PortSwigger Web Security Academy - SSRF via flawed request parsing
+PortSwigger Web Security Academy - Host validation bypass via connection state attack
+PortSwigger Web Security Academy - GraphQL API vulnerabilities
+PortSwigger Web Security Academy - Accidental exposure of private GraphQL fields
+PortSwigger Web Security Academy - Finding a hidden GraphQL endpoint
+PortSwigger Web Security Academy - Bypassing GraphQL brute force protections
+PortSwigger Web Security Academy - Performing CSRF exploits over GraphQL
+PortSwigger Web Security Academy - Insecure deserialization
+PortSwigger Web Security Academy - Modifying serialized objects
+PortSwigger Web Security Academy - Modifying serialized data types
+PortSwigger Web Security Academy - Using application functionality to exploit insecure deserialization
+PortSwigger Web Security Academy - Arbitrary object injection in PHP
+PortSwigger Web Security Academy - Exploiting Java deserialization with Apache Commons
+PortSwigger Web Security Academy - Exploiting PHP deserialization with a pre-built gadget chain
+PortSwigger Web Security Academy - Exploiting Ruby deserialization using a documented gadget chain
+PortSwigger Web Security Academy - Discovering vulnerabilities quickly with targeted scanning
+PortSwigger Web Security Academy - Scanning non-standard data structures
+PortSwigger Web Security Academy - Prototype pollution
+PortSwigger Web Security Academy - Client-side prototype pollution via browser APIs
+PortSwigger Web Security Academy - DOM XSS via client-side prototype pollution
+PortSwigger Web Security Academy - DOM XSS via an alternative prototype pollution vector
+PortSwigger Web Security Academy - Client-side prototype pollution via flawed sanitization
+PortSwigger Web Security Academy - Client-side prototype pollution in third-party libraries
+PortSwigger Web Security Academy - Privilege escalation via server-side prototype pollution
+PortSwigger Web Security Academy - Detecting server-side prototype pollution without polluted property reflection
+PortSwigger Web Security Academy - Bypassing flawed input filters for server-side prototype pollution
+PortSwigger Web Security Academy - Remote code execution via server-side prototype pollution
+PortSwigger Web Security Academy - Exfiltrating sensitive data via server-side prototype pollution
+PortSwigger Web Security Academy - Race conditions
+PortSwigger Web Security Academy - Bypassing rate limits via race conditions
+PortSwigger Web Security Academy - Multi-endpoint race conditions
+PortSwigger Web Security Academy - Single-endpoint race conditions
+PortSwigger Web Security Academy - Exploiting time-sensitive vulnerabilities
+PortSwigger Web Security Academy - NoSQL injection
+PortSwigger Web Security Academy - Exploiting NoSQL injection to extract data
+PortSwigger Web Security Academy - Exploiting NoSQL operator injection to extract unknown fields
+PortSwigger Web Security Academy - API testing
+PortSwigger Web Security Academy - Exploiting server-side parameter pollution in a query string
+PortSwigger Web Security Academy - Finding and exploiting an unused API endpoint
+PortSwigger Web Security Academy - Exploiting a mass assignment vulnerability
+
+# Crypto
+CryptoHack - General - Data Formats - Transparency
+CryptoHack - Symmetric Ciphers - Block Ciphers - Symmetric Starter
+CryptoHack - Symmetric Ciphers - Block Ciphers - ECB CBC WTF
+CryptoHack - Symmetric Ciphers - Block Ciphers - ECB Oracle
+CryptoHack - Symmetric Ciphers - Stream Ciphers - Symmetry
+CryptoHack - Symmetric Ciphers - Stream Ciphers - Bean Counter
+CryptoHack - RSA - Primes Part 1 - Factoring, Inferius Prime
+CryptoHack - RSA - Primes Part 1 - Monoprime
+CryptoHack - RSA - Primes Part 1 - Square Eyes
+CryptoHack - RSA - Signatures Part 1 - Signing Server
+CryptoHack - RSA - Signatures Part 1 - Let's Decrypt
+CryptoHack - Diffie Helman - Misc - Script Kiddie
+CryptoHack - Diffie Helman - Misc - The Matrix
+CryptoHack - Hashes - Collisions - Collider
+CryptoHack - Hashes - Collisions - Hash Stuffing
+CryptoHack - Hashes - Length Extension - MD0
+CryptoHack - Crypto on The Web - JSON Web Tokens - RSA or HMAC?
+CryptoHack - Crypto on The Web - JSON Web Tokens - JSON in JSON
+CryptoHack - Crypto on The Web - TLS Part 1 (entire module)
+CryptoHack - Misc - One Time Pad - Gotta Go Fast
+
+# Reverse Engineering
+reversing.kr - Replace
+reversing.kr - Position
+reversing.kr - Ransomware
+reversing.kr - AutoHotKey1
+reversing.kr - AutoHotKey2
+reversing.kr - PEPassword
+reversing.kr - x64 Lotto
+reversing.kr - Music Player
+reversing.kr - ImagePrc
+reversing.kr - Direct3D FPS
+reversing.kr - Twist1
+reversing.kr - CSHOP
+reversing.kr - CSHARP
+reversing.kr - MetroApp
+
+# Binary Exploitation
+pwnable.kr - fd
+pwnable.kr - collision
+pwnable.kr - bof
+pwnable.kr - flag
+pwnable.kr - passcode
+pwnable.kr - random
+pwnable.kr - input
+pwnable.kr - leg
+pwnable.kr - mistake
+pwnable.kr - shellshock
+pwnable.kr - coin1
+pwnable.kr - blackjack
+pwnable.kr - lotto
+pwnable.kr - cmd1
+pwnable.kr - cmd2
+pwnable.kr - uaf
+pwnable.kr - memcpy
+pwnable.kr - asm
+pwnable.kr - unlink
+pwnable.kr - blukat
+pwnable.kr - horcruxes
