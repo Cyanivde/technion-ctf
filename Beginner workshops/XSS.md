@@ -1,5 +1,5 @@
 ---
-order: -6
+order: -60
 ---
 
 # XSS
@@ -18,6 +18,6 @@ order: -6
 - [Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started) (available in Kali Linux)
 
 === Resources
-- [Web Exploitation](web)
+- See [Web Exploitation](web)'s resources
 
 ===

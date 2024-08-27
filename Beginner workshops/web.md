@@ -1,5 +1,5 @@
 ---
-order: -5
+order: -50
 ---
 
 # Web Exploitation
@@ -23,5 +23,6 @@ order: -5
 - [HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - [unskid.me](http://unskid.me/) - web exploitation tutorials (Hebrew)
 - [learn-cyber.net](https://learn-cyber.net/collection/f2403d03-88e3-4fda-84e2-0dc6681c1fbb) - web exploitation tutorials
+- [WebSec](https://campus.gov.il/course/cs-gov-cs-websec/) - course about vulnerabilities on campus IL for beginners - in Hebrew!
 
 ===
