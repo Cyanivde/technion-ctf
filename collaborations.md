@@ -37,6 +37,12 @@ order: -9999
 :::sponsor
 ![]("\files\Hiroshi_Fujiwara_Cyber_Security-LOGO.png")
 :::
+:::sponsor
+![]("\files\cyber-lab-logo.jpg")
+:::
+:::sponsor
+![]("\files\Imperva.jpg")
+:::
 
 ---
 
