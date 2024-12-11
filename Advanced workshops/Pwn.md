@@ -2,7 +2,7 @@
 order: -50
 ---
 
-# Web Exploitation
+# Binary exploitation (pwn)
 
 === Presentations
 [!button icon="download" text="Pwn Presentation"](/files/Pwn.pptx)
