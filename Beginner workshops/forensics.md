@@ -5,10 +5,11 @@ order: -70
 # Forensics
 
 === Presentations
-[!button icon="download" text="Forensics"](/files/forensics.pptx)
+[!button icon="download" text="Forensics"](/files/forensics_W25.pptx)
 
 === Class Practice
 - [CTFLearn](https://ctflearn.com/challenge/1/browse) - forensics challenges where rating ≥ 4.5
+- [PicoCTF](https://play.picoctf.org/practice) - 'Forensics' assignment
 
 === Further Practice
 - [Unit 42 Wireshark Quiz](https://unit42.paloaltonetworks.com/january-wireshark-quiz/) ([Answers](https://unit42.paloaltonetworks.com/january-wireshark-quiz-answers/))
