@@ -5,7 +5,7 @@ order: -75
 # LLM
 
 === Presentations
-[!button icon="download" text="Presentaition will be uploaded soon"]()
+[!button icon="download" text="LLM Jailbreak Attacks"](/files/LLM_Jailbreak_Attacks.pdf)
 
 === Class Practice
 - [GandalfAI](https://gandalf.lakera.ai/baseline) - Reveal the password, and advance through the levels.
